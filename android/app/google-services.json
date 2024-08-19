@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "469371191227",
+    "project_id": "sekolahku-9e4b7",
+    "storage_bucket": "sekolahku-9e4b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469371191227:android:7d778433d8fa957f264e9e",
+        "android_client_info": {
+          "package_name": "com.dwapps100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469371191227-ijcpor0t4cjcd2mb6o7l3rvob1rtdsvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dwapps100",
+            "certificate_hash": "b5d968a89dd92dce2d3a3b799d145048a8f23ba3"
+          }
+        },
+        {
+          "client_id": "469371191227-rlbs22ht890nqmraae9r0ihl2co6lbif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfw152l5JPBNaEhlRsy1VV77UJzWTXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469371191227-p45j7e16uri6oq089vj29s74tlmvqp7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469371191227-bvubmo1t8i7ktnn8a9b94q2knhipe0ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sekolahku"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469371191227:android:7ea2dddb31a14b5a264e9e",
+        "android_client_info": {
+          "package_name": "com.example.merceku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469371191227-go7d2h4qbsf9upvr6jk8btpv92kh645g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merceku",
+            "certificate_hash": "15d471384d19e72ad41bda8ccc8e8531db9f3072"
+          }
+        },
+        {
+          "client_id": "469371191227-rlbs22ht890nqmraae9r0ihl2co6lbif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfw152l5JPBNaEhlRsy1VV77UJzWTXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469371191227-p45j7e16uri6oq089vj29s74tlmvqp7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469371191227-bvubmo1t8i7ktnn8a9b94q2knhipe0ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sekolahku"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
